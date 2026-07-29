@@ -11,12 +11,14 @@
             "id": "023c6e3cb97de917",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/obsidian/file-20260729165430495.png"
+                "file": "obsidian测试.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "file-20260729165430495"
+              "icon": "lucide-file",
+              "title": "obsidian测试"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/obsidian/file-20260729165430495.png",
+                "file": "obsidian测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "file-20260729165430495 的反向链接列表"
+              "title": "obsidian测试 的反向链接列表"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/obsidian/file-20260729165430495.png",
+                "file": "obsidian测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "file-20260729165430495 的出链列表"
+              "title": "obsidian测试 的出链列表"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/obsidian/file-20260729165430495.png",
+                "file": "obsidian测试.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "file-20260729165430495 的大纲"
+              "title": "obsidian测试 的大纲"
             }
           }
         ]
@@ -182,10 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "023c6e3cb97de917",
+  "active": "1f8748f119ed69f6",
   "lastOpenFiles": [
-    "obsidian.md",
-    "assets/obsidian/file-20260729165430495.png",
+    "assets/obsidian测试",
+    "assets/obsidian测试/file-20260729165559203.png",
+    "obsidian测试.md",
     "assets/obsidian",
     "assets",
     "Pasted image 20260729164142.png",

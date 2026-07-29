@@ -19,4 +19,4 @@
 ![[Pasted image 20260729164142.png]]
 
 
-![](assets/obsidian/file-20260729165430495.png)
+![](assets/obsidian测试/file-20260729165559203.png)
