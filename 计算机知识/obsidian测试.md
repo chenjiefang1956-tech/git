@@ -16,7 +16,7 @@
 1. 2  
 2. 22
 3. 555
-![[Pasted image 20260729164142.png]]
+![[../Pasted image 20260729164142.png]]
 
 
-![](assets/obsidian测试/file-20260729165559203.png)
+![](assets/obsidian测试/file-20260729170155747.png)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian测试.md",
+                "file": "计算机知识/obsidian测试.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian测试.md",
+                "file": "计算机知识/obsidian测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian测试.md",
+                "file": "计算机知识/obsidian测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian测试.md",
+                "file": "计算机知识/obsidian测试.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -186,9 +186,13 @@
   },
   "active": "1f8748f119ed69f6",
   "lastOpenFiles": [
+    "计算机知识/assets/obsidian测试",
+    "计算机知识/assets",
+    "计算机知识",
+    "assets/未命名",
     "assets/obsidian测试",
-    "assets/obsidian测试/file-20260729165559203.png",
-    "obsidian测试.md",
+    "计算机知识/assets/obsidian测试/file-20260729170155747.png",
+    "计算机知识/obsidian测试.md",
     "assets/obsidian",
     "assets",
     "Pasted image 20260729164142.png",
