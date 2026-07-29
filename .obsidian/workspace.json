@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "计算机知识/obsidian测试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "obsidian测试"
             }
           }
         ]
@@ -187,18 +187,35 @@
   },
   "active": "023c6e3cb97de917",
   "lastOpenFiles": [
+    "Horizon/uv.lock",
+    "Horizon/docs/assets/js/horizon.js",
+    "Horizon/docs/assets/css/horizon.css",
+    "Horizon/docs/assets/terminal_log.png",
+    "Horizon/docs/_includes/head-custom.html",
+    "Horizon/docs/assets/overview_zh.png",
+    "Horizon/docs/assets/overview_en.png",
+    "Horizon/docs/assets/one_news_zh.png",
+    "Horizon/docs/assets/one_news_en.png",
+    "Horizon/docs/assets/horizon-header.svg",
+    "Horizon/docs/assets/js",
+    "Horizon/docs/assets/feishu_zh.png",
+    "Horizon/docs/assets/feishu_en.png",
+    "Horizon/docs/assets/email.png",
+    "Horizon/docs/assets/css",
+    "Horizon/docs/assets/compshare-logo.png",
+    "Horizon/docs/_includes",
+    "Horizon/docs/_config.yml",
+    "Horizon/docs/horizon-hub-design.md",
+    "Horizon/docs/twitter-cookies.md",
+    "Horizon/docs/scrapers.md",
+    "Horizon/docs/scoring.md",
+    "Horizon/docs/index.md",
+    "Horizon/docs/feed-zh.xml",
+    "Horizon/docs/feed-en.xml",
+    "Horizon/docs/extractors.md",
+    "Horizon/docs/configuration.md",
+    "Horizon/docs/assets",
     "README.md",
-    "计算机知识/obsidian测试.md",
-    "计算机知识/assets/obsidian测试",
-    "计算机知识/assets",
-    "计算机知识",
-    "assets/未命名",
-    "assets/obsidian测试",
-    "计算机知识/assets/obsidian测试/file-20260729170155747.png",
-    "assets/obsidian",
-    "assets",
-    "Pasted image 20260729164142.png",
-    "ignore.txt",
-    "新建 文本文档.txt"
+    "计算机知识/obsidian测试.md"
   ]
 }
