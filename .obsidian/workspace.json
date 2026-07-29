@@ -11,14 +11,12 @@
             "id": "023c6e3cb97de917",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "obsidian.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/obsidian/file-20260729165430495.png"
               },
-              "icon": "lucide-file",
-              "title": "obsidian"
+              "icon": "lucide-image",
+              "title": "file-20260729165430495"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian.md",
+                "file": "assets/obsidian/file-20260729165430495.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "obsidian 的反向链接列表"
+              "title": "file-20260729165430495 的反向链接列表"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian.md",
+                "file": "assets/obsidian/file-20260729165430495.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "obsidian 的出链列表"
+              "title": "file-20260729165430495 的出链列表"
             }
           },
           {
@@ -156,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian.md",
+                "file": "assets/obsidian/file-20260729165430495.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "obsidian 的大纲"
+              "title": "file-20260729165430495 的大纲"
             }
           }
         ]
@@ -186,9 +184,12 @@
   },
   "active": "023c6e3cb97de917",
   "lastOpenFiles": [
+    "obsidian.md",
+    "assets/obsidian/file-20260729165430495.png",
+    "assets/obsidian",
+    "assets",
     "Pasted image 20260729164142.png",
     "ignore.txt",
-    "新建 文本文档.txt",
-    "obsidian.md"
+    "新建 文本文档.txt"
   ]
 }
